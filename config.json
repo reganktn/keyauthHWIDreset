@@ -1,0 +1,17 @@
+{
+    "choices": [
+        { "name": "Fortnite Temp", "value": "seller_key_1" },
+        { "name": "Fortnite Priv", "value": "seller_key_2" },
+        { "name": "Fortnite Pub", "value": "seller_key_3" },
+        { "name": "Fortnite Internal", "value": "seller_key_4" },
+        { "name": "Perm", "value": "seller_key_5" }
+    ],
+    "sellerKeys": {
+        "seller_key_1": "your_seller_key_1",
+        "seller_key_2": "your_seller_key_2",
+        "seller_key_3": "your_seller_key_3",
+        "seller_key_4": "your_seller_key_4",
+        "seller_key_5": "your_seller_key_5"
+    },
+    "allowedRoles": ["role_id_1", "role_id_2"]
+}
